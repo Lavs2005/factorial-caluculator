@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VirtuNexa Task</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>VirtuNexa Task</h1>
+
+    <!-- Product Card -->
+    <div class="product-card">
+        <img src="https://picsum.photos/200" alt="Product Image" />
+      <h2>Sample Product</h2>
+      <p class="price">$19.99</p>
+      <p class="description">This is a short description of the product.</p>
+    </div>
+
+    <!-- Factorial Calculator -->
+    <div class="factorial-calculator">
+      <h2>Factorial Calculator</h2>
+      <input type="number" id="numberInput" placeholder="Enter a positive integer" />
+      <div class="buttons">
+        <button onclick="calculateIterative()">Calculate Iterative</button>
+        <button onclick="calculateRecursive()">Calculate Recursive</button>
+      </div>
+      <p id="result"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
