@@ -39,6 +39,9 @@ CSS3 — For styling and responsive design
 
 JavaScript — For factorial calculation logic and DOM manipulation
 
+## Screenshots
+
+
 
 
 
