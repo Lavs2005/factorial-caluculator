@@ -41,6 +41,14 @@ JavaScript — For factorial calculation logic and DOM manipulation
 
 ## Screenshots
 
+Here is the first screenshot showing the input form:
+
+![Input Form](./screenshots/ss-1.png)
+
+Here is the second screenshot showing the result output:
+
+![Result Output](./screenshots/ss-2.png)
+
 
 
 
